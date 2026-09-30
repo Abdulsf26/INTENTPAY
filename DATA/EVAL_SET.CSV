@@ -1,0 +1,386 @@
+eval_id,family,label,amount,purpose,on_call,call_duration_s,channel,new_payee,hour
+EVAL-0001,normal,0,775.74,monthly grocery shopping at the usual store,False,0,P2P,False,10
+EVAL-0002,normal,0,220.37,fuel for the scooter,False,0,P2P,False,8
+EVAL-0003,normal,0,40.0,milk and vegetables from the co-op,False,0,P2P,False,8
+EVAL-0004,normal,0,266.28,milk and vegetables from the co-op,False,0,P2P,False,17
+EVAL-0005,normal,0,383.92,house rent transfer to landlord,False,0,P2P,False,0
+EVAL-0006,normal,0,278.42,electricity bill payment,False,0,P2P,False,16
+EVAL-0007,normal,0,40.0,electricity bill payment,False,0,P2P,False,10
+EVAL-0008,normal,0,874.12,milk and vegetables from the co-op,False,0,QR,False,13
+EVAL-0009,normal,0,780.11,medicine for blood pressure from Apollo,False,0,P2P,False,20
+EVAL-0010,normal,0,973.01,school fees for my daughter,False,0,QR,False,13
+EVAL-0011,normal,0,555.91,dinner at the usual hotel,False,0,P2P,False,12
+EVAL-0012,normal,0,788.29,mobile recharge,False,0,P2P,False,12
+EVAL-0013,normal,0,1195.2,monthly grocery shopping at the usual store,False,0,P2P,True,1
+EVAL-0014,normal,0,90.63,monthly grocery shopping at the usual store,False,0,QR,False,17
+EVAL-0015,normal,0,778.61,school fees for my daughter,False,0,P2P,False,12
+EVAL-0016,normal,0,1410.02,mobile recharge,False,0,P2P,False,12
+EVAL-0017,normal,0,473.21,school fees for my daughter,False,0,P2P,False,19
+EVAL-0018,normal,0,519.81,dinner at the usual hotel,False,0,P2P,False,10
+EVAL-0019,normal,0,40.0,monthly grocery shopping at the usual store,False,0,P2P,False,19
+EVAL-0020,normal,0,402.83,monthly grocery shopping at the usual store,False,0,P2P,True,9
+EVAL-0021,normal,0,376.37,milk and vegetables from the co-op,False,0,P2P,False,20
+EVAL-0022,normal,0,673.33,dinner at the usual hotel,False,0,P2P,False,10
+EVAL-0023,normal,0,398.64,electricity bill payment,False,0,P2P,False,7
+EVAL-0024,normal,0,187.39,milk and vegetables from the co-op,False,0,P2P,False,19
+EVAL-0025,normal,0,922.7,electricity bill payment,False,0,P2P,False,15
+EVAL-0026,normal,0,586.08,electricity bill payment,False,0,P2P,False,15
+EVAL-0027,normal,0,328.68,house rent transfer to landlord,False,0,P2P,True,9
+EVAL-0028,normal,0,592.15,medicine for blood pressure from Apollo,False,0,P2P,False,6
+EVAL-0029,normal,0,387.68,school fees for my daughter,False,0,P2P,False,18
+EVAL-0030,normal,0,873.54,electricity bill payment,False,0,P2P,False,14
+EVAL-0031,normal,0,311.0,school fees for my daughter,False,0,P2P,True,8
+EVAL-0032,normal,0,888.99,school fees for my daughter,False,0,QR,False,9
+EVAL-0033,normal,0,206.66,mobile recharge,False,0,QR,False,10
+EVAL-0034,normal,0,532.47,medicine for blood pressure from Apollo,False,0,P2P,False,19
+EVAL-0035,normal,0,40.0,bus pass topup for daily commute,False,0,P2P,True,7
+EVAL-0036,normal,0,673.69,milk and vegetables from the co-op,False,0,P2P,True,20
+EVAL-0037,normal,0,297.31,dinner at the usual hotel,False,0,P2P,False,8
+EVAL-0038,normal,0,955.5,fuel for the scooter,False,0,QR,False,6
+EVAL-0039,normal,0,94.3,milk and vegetables from the co-op,False,0,P2P,True,8
+EVAL-0040,normal,0,675.35,medicine for blood pressure from Apollo,False,0,P2P,False,12
+EVAL-0041,normal,0,239.25,school fees for my daughter,False,0,P2P,False,17
+EVAL-0042,normal,0,515.59,house rent transfer to landlord,False,0,P2P,True,9
+EVAL-0043,normal,0,550.79,monthly grocery shopping at the usual store,False,0,P2P,False,11
+EVAL-0044,normal,0,927.19,electricity bill payment,False,0,P2P,False,20
+EVAL-0045,normal,0,294.48,medicine for blood pressure from Apollo,False,0,P2P,False,2
+EVAL-0046,normal,0,84.08,dinner at the usual hotel,False,0,P2P,False,11
+EVAL-0047,normal,0,896.42,electricity bill payment,False,0,P2P,False,20
+EVAL-0048,normal,0,1307.33,electricity bill payment,False,0,P2P,False,0
+EVAL-0049,normal,0,699.85,house rent transfer to landlord,False,0,QR,True,20
+EVAL-0050,normal,0,91.42,fuel for the scooter,False,0,P2P,False,9
+EVAL-0051,normal,0,40.0,medicine for blood pressure from Apollo,False,0,P2P,False,14
+EVAL-0052,normal,0,202.41,fuel for the scooter,False,0,QR,False,9
+EVAL-0053,normal,0,757.64,bus pass topup for daily commute,False,0,P2P,False,0
+EVAL-0054,normal,0,449.66,medicine for blood pressure from Apollo,False,0,P2P,False,18
+EVAL-0055,normal,0,282.9,bus pass topup for daily commute,False,0,P2P,False,1
+EVAL-0056,normal,0,961.31,milk and vegetables from the co-op,False,0,P2P,False,1
+EVAL-0057,normal,0,318.55,monthly grocery shopping at the usual store,False,0,P2P,False,11
+EVAL-0058,normal,0,809.93,medicine for blood pressure from Apollo,False,0,QR,False,9
+EVAL-0059,normal,0,601.56,electricity bill payment,False,0,P2P,False,20
+EVAL-0060,normal,0,353.59,bus pass topup for daily commute,False,0,QR,False,12
+EVAL-0061,normal,0,796.62,milk and vegetables from the co-op,False,0,QR,False,21
+EVAL-0062,normal,0,664.11,house rent transfer to landlord,False,0,P2P,False,14
+EVAL-0063,normal,0,1528.83,monthly grocery shopping at the usual store,False,0,P2P,True,7
+EVAL-0064,normal,0,381.57,house rent transfer to landlord,False,0,QR,False,12
+EVAL-0065,normal,0,884.86,dinner at the usual hotel,False,0,QR,False,9
+EVAL-0066,normal,0,267.35,medicine for blood pressure from Apollo,False,0,P2P,False,22
+EVAL-0067,normal,0,444.76,bus pass topup for daily commute,False,0,QR,False,8
+EVAL-0068,normal,0,1060.51,fuel for the scooter,False,0,P2P,False,21
+EVAL-0069,normal,0,577.68,monthly grocery shopping at the usual store,False,0,P2P,False,14
+EVAL-0070,normal,0,410.63,mobile recharge,False,0,QR,False,19
+EVAL-0071,normal,0,40.0,mobile recharge,False,0,QR,False,12
+EVAL-0072,normal,0,1064.11,fuel for the scooter,False,0,P2P,False,10
+EVAL-0073,normal,0,586.99,milk and vegetables from the co-op,False,0,P2P,False,20
+EVAL-0074,normal,0,908.84,medicine for blood pressure from Apollo,False,0,P2P,True,11
+EVAL-0075,normal,0,40.0,electricity bill payment,False,0,P2P,True,21
+EVAL-0076,normal,0,401.9,school fees for my daughter,False,0,QR,False,9
+EVAL-0077,normal,0,772.45,house rent transfer to landlord,False,0,QR,True,8
+EVAL-0078,normal,0,373.57,dinner at the usual hotel,False,0,QR,False,13
+EVAL-0079,normal,0,226.19,dinner at the usual hotel,False,0,P2P,False,16
+EVAL-0080,normal,0,40.0,school fees for my daughter,False,0,QR,False,21
+EVAL-0081,normal,0,932.06,fuel for the scooter,False,0,QR,False,9
+EVAL-0082,normal,0,564.19,electricity bill payment,False,0,P2P,False,13
+EVAL-0083,normal,0,443.0,house rent transfer to landlord,False,0,P2P,False,17
+EVAL-0084,normal,0,582.13,dinner at the usual hotel,False,0,P2P,True,5
+EVAL-0085,normal,0,1096.75,mobile recharge,False,0,P2P,False,9
+EVAL-0086,normal,0,1009.16,milk and vegetables from the co-op,False,0,P2P,False,19
+EVAL-0087,normal,0,218.57,fuel for the scooter,False,0,QR,False,20
+EVAL-0088,normal,0,780.23,mobile recharge,False,0,P2P,False,11
+EVAL-0089,normal,0,40.0,bus pass topup for daily commute,False,0,P2P,True,10
+EVAL-0090,normal,0,599.96,dinner at the usual hotel,False,0,QR,True,8
+EVAL-0091,normal,0,500.81,medicine for blood pressure from Apollo,False,0,QR,True,13
+EVAL-0092,normal,0,927.74,monthly grocery shopping at the usual store,False,0,QR,False,10
+EVAL-0093,normal,0,608.23,milk and vegetables from the co-op,False,0,P2P,False,17
+EVAL-0094,normal,0,243.14,house rent transfer to landlord,False,0,P2P,False,13
+EVAL-0095,normal,0,659.16,school fees for my daughter,False,0,P2P,False,18
+EVAL-0096,normal,0,40.0,fuel for the scooter,False,0,P2P,True,19
+EVAL-0097,normal,0,1090.33,milk and vegetables from the co-op,False,0,P2P,False,7
+EVAL-0098,normal,0,208.32,electricity bill payment,False,0,P2P,False,7
+EVAL-0099,normal,0,68.91,mobile recharge,False,0,P2P,False,13
+EVAL-0100,normal,0,1263.79,dinner at the usual hotel,False,0,P2P,False,3
+EVAL-0101,normal,0,304.1,electricity bill payment,False,0,P2P,False,17
+EVAL-0102,normal,0,1033.76,medicine for blood pressure from Apollo,False,0,QR,False,14
+EVAL-0103,normal,0,397.16,mobile recharge,False,0,QR,False,16
+EVAL-0104,normal,0,211.76,fuel for the scooter,False,0,QR,False,6
+EVAL-0105,normal,0,170.95,dinner at the usual hotel,False,0,QR,False,17
+EVAL-0106,normal,0,282.65,bus pass topup for daily commute,False,0,P2P,False,19
+EVAL-0107,normal,0,765.94,dinner at the usual hotel,False,0,QR,False,19
+EVAL-0108,normal,0,53.54,milk and vegetables from the co-op,False,0,P2P,True,14
+EVAL-0109,normal,0,491.13,monthly grocery shopping at the usual store,False,0,P2P,False,8
+EVAL-0110,normal,0,40.0,electricity bill payment,False,0,P2P,False,10
+EVAL-0111,normal,0,892.36,monthly grocery shopping at the usual store,False,0,P2P,False,12
+EVAL-0112,normal,0,544.87,house rent transfer to landlord,False,0,QR,False,14
+EVAL-0113,normal,0,40.0,fuel for the scooter,False,0,P2P,False,11
+EVAL-0114,normal,0,556.2,school fees for my daughter,False,0,P2P,False,13
+EVAL-0115,normal,0,304.04,mobile recharge,False,0,P2P,True,8
+EVAL-0116,normal,0,40.0,mobile recharge,False,0,P2P,False,14
+EVAL-0117,normal,0,806.0,dinner at the usual hotel,False,0,P2P,False,19
+EVAL-0118,normal,0,699.72,mobile recharge,False,0,P2P,False,8
+EVAL-0119,normal,0,551.87,bus pass topup for daily commute,False,0,QR,True,7
+EVAL-0120,normal,0,79.95,bus pass topup for daily commute,False,0,P2P,True,19
+EVAL-0121,normal,0,616.84,monthly grocery shopping at the usual store,False,0,P2P,False,3
+EVAL-0122,normal,0,384.75,mobile recharge,False,0,P2P,True,23
+EVAL-0123,normal,0,910.18,electricity bill payment,False,0,QR,False,10
+EVAL-0124,normal,0,570.95,dinner at the usual hotel,False,0,QR,False,19
+EVAL-0125,normal,0,823.96,bus pass topup for daily commute,False,0,QR,False,12
+EVAL-0126,normal,0,437.24,bus pass topup for daily commute,False,0,P2P,False,9
+EVAL-0127,normal,0,163.04,milk and vegetables from the co-op,False,0,P2P,False,13
+EVAL-0128,normal,0,40.0,dinner at the usual hotel,False,0,QR,False,14
+EVAL-0129,normal,0,78.01,fuel for the scooter,False,0,P2P,False,16
+EVAL-0130,normal,0,914.56,mobile recharge,False,0,P2P,True,8
+EVAL-0131,normal,0,181.59,electricity bill payment,False,0,P2P,False,8
+EVAL-0132,normal,0,222.11,monthly grocery shopping at the usual store,False,0,P2P,False,13
+EVAL-0133,normal,0,40.0,mobile recharge,False,0,P2P,False,21
+EVAL-0134,normal,0,364.42,fuel for the scooter,False,0,P2P,False,14
+EVAL-0135,normal,0,553.78,fuel for the scooter,False,0,P2P,False,8
+EVAL-0136,normal,0,305.93,mobile recharge,False,0,P2P,False,16
+EVAL-0137,normal,0,208.19,bus pass topup for daily commute,False,0,QR,False,23
+EVAL-0138,normal,0,346.34,bus pass topup for daily commute,False,0,P2P,False,10
+EVAL-0139,normal,0,40.0,mobile recharge,False,0,P2P,False,18
+EVAL-0140,normal,0,612.25,dinner at the usual hotel,False,0,P2P,False,11
+EVAL-0141,normal,0,98.55,house rent transfer to landlord,False,0,P2P,False,12
+EVAL-0142,normal,0,669.77,fuel for the scooter,False,0,QR,True,20
+EVAL-0143,normal,0,106.88,electricity bill payment,False,0,P2P,False,16
+EVAL-0144,normal,0,267.93,fuel for the scooter,False,0,QR,False,7
+EVAL-0145,normal,0,697.15,dinner at the usual hotel,False,0,P2P,False,0
+EVAL-0146,normal,0,810.17,milk and vegetables from the co-op,False,0,P2P,False,4
+EVAL-0147,normal,0,508.79,medicine for blood pressure from Apollo,False,0,P2P,False,23
+EVAL-0148,normal,0,1167.53,house rent transfer to landlord,False,0,QR,False,15
+EVAL-0149,normal,0,675.43,school fees for my daughter,False,0,P2P,False,14
+EVAL-0150,normal,0,496.96,bus pass topup for daily commute,False,0,P2P,False,11
+EVAL-0151,normal,0,1018.54,milk and vegetables from the co-op,False,0,P2P,False,8
+EVAL-0152,normal,0,659.91,house rent transfer to landlord,False,0,P2P,False,9
+EVAL-0153,normal,0,407.19,mobile recharge,False,0,P2P,False,12
+EVAL-0154,normal,0,420.6,medicine for blood pressure from Apollo,False,0,P2P,False,12
+EVAL-0155,normal,0,40.0,fuel for the scooter,False,0,P2P,False,16
+EVAL-0156,normal,0,223.89,school fees for my daughter,False,0,P2P,True,17
+EVAL-0157,normal,0,262.72,school fees for my daughter,False,0,P2P,False,23
+EVAL-0158,normal,0,638.67,dinner at the usual hotel,False,0,P2P,False,20
+EVAL-0159,normal,0,615.78,mobile recharge,False,0,P2P,False,10
+EVAL-0160,normal,0,353.01,house rent transfer to landlord,False,0,QR,True,10
+EVAL-0161,normal,0,668.91,fuel for the scooter,False,0,P2P,False,12
+EVAL-0162,normal,0,705.35,mobile recharge,False,0,P2P,False,17
+EVAL-0163,normal,0,435.77,monthly grocery shopping at the usual store,False,0,P2P,True,20
+EVAL-0164,normal,0,40.0,school fees for my daughter,False,0,P2P,False,9
+EVAL-0165,normal,0,691.26,dinner at the usual hotel,False,0,P2P,False,17
+EVAL-0166,normal,0,530.31,fuel for the scooter,False,0,P2P,False,19
+EVAL-0167,normal,0,758.38,medicine for blood pressure from Apollo,False,0,P2P,False,22
+EVAL-0168,normal,0,508.43,milk and vegetables from the co-op,False,0,P2P,False,20
+EVAL-0169,normal,0,509.24,electricity bill payment,False,0,P2P,False,8
+EVAL-0170,normal,0,245.41,medicine for blood pressure from Apollo,False,0,P2P,False,22
+EVAL-0171,normal,0,1153.55,school fees for my daughter,False,0,P2P,True,19
+EVAL-0172,normal,0,330.17,fuel for the scooter,False,0,P2P,False,14
+EVAL-0173,normal,0,824.42,monthly grocery shopping at the usual store,False,0,QR,False,19
+EVAL-0174,normal,0,40.0,medicine for blood pressure from Apollo,False,0,P2P,False,10
+EVAL-0175,normal,0,443.73,school fees for my daughter,False,0,P2P,False,15
+EVAL-0176,normal,0,1574.45,mobile recharge,False,0,QR,False,13
+EVAL-0177,normal,0,713.26,milk and vegetables from the co-op,False,0,QR,False,10
+EVAL-0178,normal,0,1219.07,house rent transfer to landlord,False,0,P2P,True,16
+EVAL-0179,normal,0,94.38,monthly grocery shopping at the usual store,False,0,P2P,False,20
+EVAL-0180,normal,0,205.93,mobile recharge,False,0,P2P,True,8
+EVAL-0181,tricky_benign,0,1141.67,"hospital called, my father needs surgery money today",True,1500,P2P,True,23
+EVAL-0182,tricky_benign,0,3347.08,"accident emergency, please send quickly",True,2400,LINK,True,22
+EVAL-0183,tricky_benign,0,970.84,plumber came at night for urgent repair,False,0,QR,True,23
+EVAL-0184,tricky_benign,0,3851.14,"late night cab, driver waiting",False,0,QR,True,23
+EVAL-0185,tricky_benign,0,4731.48,new shopkeeper asked for advance,False,0,P2P,True,19
+EVAL-0186,tricky_benign,0,500.0,"hospital called, my father needs surgery money today",True,1500,P2P,True,23
+EVAL-0187,tricky_benign,0,4468.32,"accident emergency, please send quickly",True,2400,LINK,True,22
+EVAL-0188,tricky_benign,0,3433.62,plumber came at night for urgent repair,False,0,QR,True,23
+EVAL-0189,tricky_benign,0,3438.27,"late night cab, driver waiting",False,0,QR,True,23
+EVAL-0190,tricky_benign,0,5507.48,new shopkeeper asked for advance,False,0,P2P,True,19
+EVAL-0191,tricky_benign,0,5078.55,"hospital called, my father needs surgery money today",True,1500,P2P,True,23
+EVAL-0192,tricky_benign,0,1195.66,"accident emergency, please send quickly",True,2400,LINK,True,22
+EVAL-0193,tricky_benign,0,5241.02,plumber came at night for urgent repair,False,0,QR,True,23
+EVAL-0194,tricky_benign,0,2527.49,"late night cab, driver waiting",False,0,QR,True,23
+EVAL-0195,tricky_benign,0,1964.98,new shopkeeper asked for advance,False,0,P2P,True,19
+EVAL-0196,tricky_benign,0,1738.86,"hospital called, my father needs surgery money today",True,1500,P2P,True,23
+EVAL-0197,tricky_benign,0,3066.04,"accident emergency, please send quickly",True,2400,LINK,True,22
+EVAL-0198,tricky_benign,0,697.35,plumber came at night for urgent repair,False,0,QR,True,23
+EVAL-0199,tricky_benign,0,3520.21,"late night cab, driver waiting",False,0,QR,True,23
+EVAL-0200,tricky_benign,0,3261.94,new shopkeeper asked for advance,False,0,P2P,True,19
+EVAL-0201,tricky_benign,0,2499.92,"hospital called, my father needs surgery money today",True,1500,P2P,True,23
+EVAL-0202,tricky_benign,0,3991.69,"accident emergency, please send quickly",True,2400,LINK,True,22
+EVAL-0203,tricky_benign,0,4038.35,plumber came at night for urgent repair,False,0,QR,True,23
+EVAL-0204,tricky_benign,0,4101.93,"late night cab, driver waiting",False,0,QR,True,23
+EVAL-0205,tricky_benign,0,3188.13,new shopkeeper asked for advance,False,0,P2P,True,19
+EVAL-0206,tricky_benign,0,3074.33,"hospital called, my father needs surgery money today",True,1500,P2P,True,23
+EVAL-0207,tricky_benign,0,2132.33,"accident emergency, please send quickly",True,2400,LINK,True,22
+EVAL-0208,tricky_benign,0,2859.01,plumber came at night for urgent repair,False,0,QR,True,23
+EVAL-0209,tricky_benign,0,2960.93,"late night cab, driver waiting",False,0,QR,True,23
+EVAL-0210,tricky_benign,0,4453.83,new shopkeeper asked for advance,False,0,P2P,True,19
+EVAL-0211,bank_impersonation,1,4491.88,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,1020,LINK,True,16
+EVAL-0212,bank_impersonation,1,20284.37,"customer care said re-kyc needed, share otp to verify my card",True,1380,LINK,True,14
+EVAL-0213,bank_impersonation,1,41381.28,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,780,LINK,True,18
+EVAL-0214,bank_impersonation,1,24335.87,"customer care said re-kyc needed, share otp to verify my card",True,2160,LINK,True,11
+EVAL-0215,bank_impersonation,1,40248.74,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,1980,LINK,True,19
+EVAL-0216,bank_impersonation,1,40334.77,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,2340,LINK,True,17
+EVAL-0217,bank_impersonation,1,16041.31,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,2220,LINK,True,13
+EVAL-0218,bank_impersonation,1,39232.83,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,660,LINK,True,14
+EVAL-0219,bank_impersonation,1,11266.58,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,2280,LINK,True,17
+EVAL-0220,bank_impersonation,1,35716.32,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,1320,LINK,True,12
+EVAL-0221,bank_impersonation,1,42046.74,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,2280,LINK,True,11
+EVAL-0222,bank_impersonation,1,12854.7,"bank verification pending, transfer to government account immediately",True,1320,LINK,True,10
+EVAL-0223,bank_impersonation,1,27652.44,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,2160,LINK,True,19
+EVAL-0224,bank_impersonation,1,5225.29,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,1440,LINK,True,18
+EVAL-0225,bank_impersonation,1,37440.35,"customer care said re-kyc needed, share otp to verify my card",True,1440,LINK,True,15
+EVAL-0226,bank_impersonation,1,9618.43,"bank verification pending, transfer to government account immediately",True,1260,LINK,True,9
+EVAL-0227,bank_impersonation,1,44210.6,"bank verification pending, transfer to government account immediately",True,2040,LINK,True,21
+EVAL-0228,bank_impersonation,1,31072.53,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,2160,LINK,True,18
+EVAL-0229,bank_impersonation,1,40055.79,"customer care said re-kyc needed, share otp to verify my card",True,2280,LINK,True,12
+EVAL-0230,bank_impersonation,1,41633.57,"bank verification pending, transfer to government account immediately",True,2040,LINK,True,11
+EVAL-0231,bank_impersonation,1,8688.97,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,2280,LINK,True,16
+EVAL-0232,bank_impersonation,1,41788.56,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,1620,LINK,True,13
+EVAL-0233,bank_impersonation,1,13221.23,"bank verification pending, transfer to government account immediately",True,1140,LINK,True,10
+EVAL-0234,bank_impersonation,1,14850.3,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,1980,LINK,True,15
+EVAL-0235,bank_impersonation,1,32692.13,"customer care said re-kyc needed, share otp to verify my card",True,600,LINK,True,9
+EVAL-0236,bank_impersonation,1,17508.9,"bank verification pending, transfer to government account immediately",True,600,LINK,True,11
+EVAL-0237,bank_impersonation,1,21556.22,"bank manager called, my KYC is incomplete, pay to safe account to verify",True,720,LINK,True,19
+EVAL-0238,bank_impersonation,1,30737.38,"bank verification pending, transfer to government account immediately",True,2400,LINK,True,12
+EVAL-0239,bank_impersonation,1,14216.0,"SBI officer said account will be blocked, need to deposit to RBI safe account",True,1500,LINK,True,16
+EVAL-0240,bank_impersonation,1,40607.57,"customer care said re-kyc needed, share otp to verify my card",True,1080,LINK,True,18
+EVAL-0241,digital_arrest,1,194476.08,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,10440,P2P,True,13
+EVAL-0242,digital_arrest,1,96394.77,"customs officer threatened arrest, pay penalty immediately",True,10320,P2P,True,19
+EVAL-0243,digital_arrest,1,26177.38,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,5160,P2P,True,12
+EVAL-0244,digital_arrest,1,72854.77,"police called, case registered against me, stay on video call and pay to avoid arrest",True,3720,P2P,True,19
+EVAL-0245,digital_arrest,1,205240.02,"customs officer threatened arrest, pay penalty immediately",True,8940,P2P,True,15
+EVAL-0246,digital_arrest,1,115323.22,"police called, case registered against me, stay on video call and pay to avoid arrest",True,13140,P2P,True,13
+EVAL-0247,digital_arrest,1,135980.86,"CBI officer said digital arrest, don't tell anyone, transfer to safe account",True,6360,P2P,True,23
+EVAL-0248,digital_arrest,1,192641.24,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,4440,P2P,True,12
+EVAL-0249,digital_arrest,1,189543.66,"police called, case registered against me, stay on video call and pay to avoid arrest",True,7740,P2P,True,19
+EVAL-0250,digital_arrest,1,235778.26,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,9840,P2P,True,8
+EVAL-0251,digital_arrest,1,165310.18,"CBI officer said digital arrest, don't tell anyone, transfer to safe account",True,9660,P2P,True,19
+EVAL-0252,digital_arrest,1,147958.15,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,10680,P2P,True,23
+EVAL-0253,digital_arrest,1,122038.53,"CBI officer said digital arrest, don't tell anyone, transfer to safe account",True,7800,P2P,True,12
+EVAL-0254,digital_arrest,1,141786.08,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,9120,P2P,True,8
+EVAL-0255,digital_arrest,1,67382.34,"customs officer threatened arrest, pay penalty immediately",True,12360,P2P,True,8
+EVAL-0256,digital_arrest,1,237264.0,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,2820,P2P,True,17
+EVAL-0257,digital_arrest,1,155648.04,"CBI officer said digital arrest, don't tell anyone, transfer to safe account",True,13200,P2P,True,15
+EVAL-0258,digital_arrest,1,123366.41,"customs officer threatened arrest, pay penalty immediately",True,8700,P2P,True,19
+EVAL-0259,digital_arrest,1,27396.9,"customs officer threatened arrest, pay penalty immediately",True,11700,P2P,True,22
+EVAL-0260,digital_arrest,1,104643.49,"police called, case registered against me, stay on video call and pay to avoid arrest",True,3360,P2P,True,15
+EVAL-0261,digital_arrest,1,110189.18,"police called, case registered against me, stay on video call and pay to avoid arrest",True,3480,P2P,True,10
+EVAL-0262,digital_arrest,1,209502.42,"customs officer threatened arrest, pay penalty immediately",True,3540,P2P,True,16
+EVAL-0263,digital_arrest,1,143420.91,"police called, case registered against me, stay on video call and pay to avoid arrest",True,11400,P2P,True,23
+EVAL-0264,digital_arrest,1,147185.35,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,8580,P2P,True,23
+EVAL-0265,digital_arrest,1,88685.07,"customs officer threatened arrest, pay penalty immediately",True,12480,P2P,True,10
+EVAL-0266,digital_arrest,1,211626.37,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,5460,P2P,True,22
+EVAL-0267,digital_arrest,1,234460.68,"police called, case registered against me, stay on video call and pay to avoid arrest",True,13200,P2P,True,8
+EVAL-0268,digital_arrest,1,91579.25,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,13980,P2P,True,9
+EVAL-0269,digital_arrest,1,99159.63,"customs officer threatened arrest, pay penalty immediately",True,7020,P2P,True,21
+EVAL-0270,digital_arrest,1,65258.65,"cyber cell said my aadhaar is linked to crime, keep the call on and pay",True,4800,P2P,True,12
+EVAL-0271,lottery_investment,1,26510.85,"click this link to claim jackpot, pay tax",False,0,LINK,True,15
+EVAL-0272,lottery_investment,1,16456.59,"click this link to claim jackpot, pay tax",False,0,LINK,True,12
+EVAL-0273,lottery_investment,1,26640.56,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,23
+EVAL-0274,lottery_investment,1,23376.84,"click this link to claim jackpot, pay tax",False,0,LINK,True,16
+EVAL-0275,lottery_investment,1,58818.38,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,17
+EVAL-0276,lottery_investment,1,14401.27,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,12
+EVAL-0277,lottery_investment,1,22673.14,"click this link to claim jackpot, pay tax",False,0,LINK,True,10
+EVAL-0278,lottery_investment,1,41809.65,"crypto trading group, pay registration fee",False,0,LINK,True,23
+EVAL-0279,lottery_investment,1,29984.06,"won lottery, pay processing fee to receive prize",False,0,LINK,True,12
+EVAL-0280,lottery_investment,1,55233.66,"crypto trading group, pay registration fee",False,0,LINK,True,13
+EVAL-0281,lottery_investment,1,40046.62,"click this link to claim jackpot, pay tax",False,0,LINK,True,23
+EVAL-0282,lottery_investment,1,56086.74,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,18
+EVAL-0283,lottery_investment,1,57754.52,"crypto trading group, pay registration fee",False,0,LINK,True,12
+EVAL-0284,lottery_investment,1,49484.01,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,13
+EVAL-0285,lottery_investment,1,45283.88,"crypto trading group, pay registration fee",False,0,LINK,True,10
+EVAL-0286,lottery_investment,1,20207.97,"crypto trading group, pay registration fee",False,0,LINK,True,12
+EVAL-0287,lottery_investment,1,4888.67,"click this link to claim jackpot, pay tax",False,0,LINK,True,12
+EVAL-0288,lottery_investment,1,38275.36,"click this link to claim jackpot, pay tax",False,0,LINK,True,17
+EVAL-0289,lottery_investment,1,20790.39,"crypto trading group, pay registration fee",False,0,LINK,True,12
+EVAL-0290,lottery_investment,1,13294.26,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,15
+EVAL-0291,lottery_investment,1,56448.13,"won lottery, pay processing fee to receive prize",False,0,LINK,True,19
+EVAL-0292,lottery_investment,1,36515.41,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,14
+EVAL-0293,lottery_investment,1,10768.96,"investment scheme doubles money, guaranteed returns",False,0,LINK,True,21
+EVAL-0294,lottery_investment,1,26294.83,"crypto trading group, pay registration fee",False,0,LINK,True,16
+EVAL-0295,lottery_investment,1,20580.82,"crypto trading group, pay registration fee",False,0,LINK,True,21
+EVAL-0296,refund_qr,1,3805.39,approve the collect request to get your money back,True,1800,QR,True,14
+EVAL-0297,refund_qr,1,1019.9,enter pin to receive the refund,True,1500,QR,True,18
+EVAL-0298,refund_qr,1,221.89,scan this qr to receive refund,True,1680,QR,True,11
+EVAL-0299,refund_qr,1,4928.52,enter pin to receive the refund,True,540,QR,True,14
+EVAL-0300,refund_qr,1,4535.04,approve the collect request to get your money back,True,540,QR,True,11
+EVAL-0301,refund_qr,1,2847.38,approve the collect request to get your money back,True,960,QR,True,17
+EVAL-0302,refund_qr,1,4840.98,"scan to receive money, cashback pending",True,720,QR,True,22
+EVAL-0303,refund_qr,1,4706.4,enter pin to receive the refund,True,1800,QR,True,13
+EVAL-0304,refund_qr,1,632.74,"scan to receive money, cashback pending",True,480,QR,True,16
+EVAL-0305,refund_qr,1,4480.29,enter pin to receive the refund,True,1440,QR,True,17
+EVAL-0306,refund_qr,1,1824.03,approve the collect request to get your money back,True,1440,QR,True,17
+EVAL-0307,refund_qr,1,807.01,enter pin to receive the refund,True,480,QR,True,10
+EVAL-0308,refund_qr,1,2942.97,approve the collect request to get your money back,True,1560,QR,True,17
+EVAL-0309,refund_qr,1,4429.49,"scan to receive money, cashback pending",True,600,QR,True,12
+EVAL-0310,refund_qr,1,1575.55,enter pin to receive the refund,True,1560,QR,True,13
+EVAL-0311,refund_qr,1,330.0,"scan to receive money, cashback pending",True,840,QR,True,12
+EVAL-0312,refund_qr,1,4211.79,approve the collect request to get your money back,True,1200,QR,True,22
+EVAL-0313,refund_qr,1,2330.63,scan this qr to receive refund,True,420,QR,True,12
+EVAL-0314,refund_qr,1,2223.96,scan this qr to receive refund,True,1800,QR,True,14
+EVAL-0315,refund_qr,1,91.59,enter pin to receive the refund,True,1260,QR,True,19
+EVAL-0316,refund_qr,1,1427.81,scan this qr to receive refund,True,300,QR,True,11
+EVAL-0317,refund_qr,1,840.11,"scan to receive money, cashback pending",True,1740,QR,True,11
+EVAL-0318,refund_qr,1,3715.33,approve the collect request to get your money back,True,1320,QR,True,12
+EVAL-0319,refund_qr,1,142.76,enter pin to receive the refund,True,1560,QR,True,13
+EVAL-0320,refund_qr,1,3137.37,scan this qr to receive refund,True,780,QR,True,16
+EVAL-0321,fake_support,1,7960.25,customer care sent apk for mobile recharge offer,True,540,LINK,True,17
+EVAL-0322,fake_support,1,6128.07,"courier parcel held, pay customs fee via link",True,1680,LINK,True,12
+EVAL-0323,fake_support,1,8030.15,customer care sent apk for mobile recharge offer,True,1920,LINK,True,20
+EVAL-0324,fake_support,1,2059.33,"electricity meter update, pay 10 rupees to the support team",True,300,LINK,True,16
+EVAL-0325,fake_support,1,11367.66,"electricity meter update, pay 10 rupees to the support team",True,1320,LINK,True,20
+EVAL-0326,fake_support,1,13642.47,customer care sent apk for mobile recharge offer,True,480,LINK,True,13
+EVAL-0327,fake_support,1,6655.74,delivery agent asked to scan for verification,True,720,LINK,True,21
+EVAL-0328,fake_support,1,14310.51,customer care sent apk for mobile recharge offer,True,1860,LINK,True,22
+EVAL-0329,fake_support,1,2476.24,"courier parcel held, pay customs fee via link",True,2700,LINK,True,20
+EVAL-0330,fake_support,1,12480.68,delivery agent asked to scan for verification,True,1020,LINK,True,17
+EVAL-0331,fake_support,1,13850.02,delivery agent asked to scan for verification,True,2160,LINK,True,12
+EVAL-0332,fake_support,1,8872.42,"courier parcel held, pay customs fee via link",True,360,LINK,True,17
+EVAL-0333,fake_support,1,9157.26,"courier parcel held, pay customs fee via link",True,1800,LINK,True,17
+EVAL-0334,fake_support,1,4633.43,customer care sent apk for mobile recharge offer,True,2700,LINK,True,16
+EVAL-0335,fake_support,1,49.26,"electricity meter update, pay 10 rupees to the support team",True,2040,LINK,True,16
+EVAL-0336,fake_support,1,3991.43,delivery agent asked to scan for verification,True,2400,LINK,True,16
+EVAL-0337,fake_support,1,11310.8,delivery agent asked to scan for verification,True,360,LINK,True,12
+EVAL-0338,fake_support,1,3560.11,"courier parcel held, pay customs fee via link",True,2220,LINK,True,17
+EVAL-0339,fake_support,1,6220.47,delivery agent asked to scan for verification,True,1440,LINK,True,21
+EVAL-0340,fake_support,1,11687.87,customer care sent apk for mobile recharge offer,True,2700,LINK,True,13
+EVAL-0341,fake_support,1,1066.36,"courier parcel held, pay customs fee via link",True,660,LINK,True,12
+EVAL-0342,fake_support,1,7485.65,"electricity meter update, pay 10 rupees to the support team",True,1920,LINK,True,9
+EVAL-0343,fake_support,1,12746.73,customer care sent apk for mobile recharge offer,True,2220,LINK,True,14
+EVAL-0344,fake_support,1,13199.63,"courier parcel held, pay customs fee via link",True,2280,LINK,True,20
+EVAL-0345,fake_support,1,11633.63,"courier parcel held, pay customs fee via link",True,1560,LINK,True,12
+EVAL-0346,job_fee,1,6679.86,placement fee for offer letter,False,0,LINK,True,16
+EVAL-0347,job_fee,1,18360.18,placement fee for offer letter,False,0,LINK,True,11
+EVAL-0348,job_fee,1,19183.95,placement fee for offer letter,False,0,LINK,True,17
+EVAL-0349,job_fee,1,12686.51,placement fee for offer letter,False,0,LINK,True,18
+EVAL-0350,job_fee,1,5054.05,placement fee for offer letter,False,0,LINK,True,15
+EVAL-0351,job_fee,1,18248.76,"part time job, pay security deposit",False,0,LINK,True,14
+EVAL-0352,job_fee,1,16761.32,"part time job, pay security deposit",False,0,LINK,True,15
+EVAL-0353,job_fee,1,19811.04,"job offer, pay registration fee",False,0,LINK,True,17
+EVAL-0354,job_fee,1,13185.18,"part time job, pay security deposit",False,0,LINK,True,12
+EVAL-0355,job_fee,1,15802.56,"work from home data entry job, pay training fee",False,0,LINK,True,21
+EVAL-0356,job_fee,1,621.83,"work from home data entry job, pay training fee",False,0,LINK,True,13
+EVAL-0357,job_fee,1,3397.05,"part time job, pay security deposit",False,0,LINK,True,12
+EVAL-0358,job_fee,1,11906.38,"job offer, pay registration fee",False,0,LINK,True,10
+EVAL-0359,job_fee,1,10278.7,"work from home data entry job, pay training fee",False,0,LINK,True,11
+EVAL-0360,job_fee,1,14077.34,placement fee for offer letter,False,0,LINK,True,10
+EVAL-0361,job_fee,1,8573.02,"work from home data entry job, pay training fee",False,0,LINK,True,14
+EVAL-0362,job_fee,1,19760.41,"work from home data entry job, pay training fee",False,0,LINK,True,19
+EVAL-0363,job_fee,1,3065.03,placement fee for offer letter,False,0,LINK,True,12
+EVAL-0364,job_fee,1,4101.76,"job offer, pay registration fee",False,0,LINK,True,16
+EVAL-0365,job_fee,1,13526.25,"part time job, pay security deposit",False,0,LINK,True,10
+EVAL-0366,family_emergency_scam,1,42844.47,"daughter in hospital, pay immediately to unknown account",True,1800,P2P,True,7
+EVAL-0367,family_emergency_scam,1,71733.81,"my son met an accident, hospital needs money urgently, new number",True,780,P2P,True,10
+EVAL-0368,family_emergency_scam,1,47487.73,"my son met an accident, hospital needs money urgently, new number",True,1860,P2P,True,10
+EVAL-0369,family_emergency_scam,1,49327.91,"my son met an accident, hospital needs money urgently, new number",True,720,P2P,True,1
+EVAL-0370,family_emergency_scam,1,81454.23,"mother admitted, don't call back, transfer to this number",True,1500,P2P,True,1
+EVAL-0371,family_emergency_scam,1,81928.04,"daughter in hospital, pay immediately to unknown account",True,1320,P2P,True,1
+EVAL-0372,family_emergency_scam,1,45116.5,"my son met an accident, hospital needs money urgently, new number",True,2760,P2P,True,14
+EVAL-0373,family_emergency_scam,1,50008.48,"my son met an accident, hospital needs money urgently, new number",True,720,P2P,True,13
+EVAL-0374,family_emergency_scam,1,52389.46,"mother admitted, don't call back, transfer to this number",True,2880,P2P,True,4
+EVAL-0375,family_emergency_scam,1,10576.03,"mother admitted, don't call back, transfer to this number",True,2820,P2P,True,12
+EVAL-0376,family_emergency_scam,1,42231.7,"mother admitted, don't call back, transfer to this number",True,2400,P2P,True,17
+EVAL-0377,family_emergency_scam,1,10409.49,"daughter in hospital, pay immediately to unknown account",True,2340,P2P,True,2
+EVAL-0378,family_emergency_scam,1,10615.64,"mother admitted, don't call back, transfer to this number",True,1500,P2P,True,12
+EVAL-0379,family_emergency_scam,1,49586.57,"my son met an accident, hospital needs money urgently, new number",True,2100,P2P,True,6
+EVAL-0380,family_emergency_scam,1,53752.31,"my son met an accident, hospital needs money urgently, new number",True,1080,P2P,True,11
+EVAL-0381,family_emergency_scam,1,45939.36,"mother admitted, don't call back, transfer to this number",True,1380,P2P,True,11
+EVAL-0382,family_emergency_scam,1,18791.54,"daughter in hospital, pay immediately to unknown account",True,2160,P2P,True,1
+EVAL-0383,family_emergency_scam,1,37208.68,"mother admitted, don't call back, transfer to this number",True,3240,P2P,True,0
+EVAL-0384,family_emergency_scam,1,57842.22,"my son met an accident, hospital needs money urgently, new number",True,1860,P2P,True,7
+EVAL-0385,family_emergency_scam,1,11937.75,"daughter in hospital, pay immediately to unknown account",True,1140,P2P,True,4

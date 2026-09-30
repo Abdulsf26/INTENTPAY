@@ -1,0 +1,94 @@
+{
+  "customer_one": {
+    "customer_id": "customer_one",
+    "name": "Arun Kumar",
+    "age": 34,
+    "language": "en",
+    "elder_mode": false,
+    "usual_city": "Chennai",
+    "usual_lat": 13.0827,
+    "usual_lon": 80.2707,
+    "typical_amount": 520.0,
+    "monthly_limit": 15000.0,
+    "category_limits": {
+      "FOOD": 6000.0
+    },
+    "known_devices": [
+      "device-android-01",
+      "device-windows-02"
+    ],
+    "own_upi_ids": [
+      "arun@okhdfc",
+      "arun.savings@okhdfc"
+    ],
+    "known_payees": [
+      {
+        "name": "Annai Grocery Store",
+        "upi_id": "annaigrocery@ybl"
+      },
+      {
+        "name": "Saravana Hotel",
+        "upi_id": "saravanahotel@ybl"
+      },
+      {
+        "name": "Apollo Pharmacy",
+        "upi_id": "apollopharm@axl"
+      },
+      {
+        "name": "Airtel Mobile",
+        "upi_id": "airtel@icici"
+      },
+      {
+        "name": "Rent - Landlord",
+        "upi_id": "landlord.chennai@hdfcbank"
+      },
+      {
+        "name": "Priya (sister)",
+        "upi_id": "priya.k@okaxis"
+      }
+    ],
+    "seed": 11
+  },
+  "customer_two": {
+    "customer_id": "customer_two",
+    "name": "Meenakshi Ammal",
+    "age": 68,
+    "language": "ta",
+    "elder_mode": true,
+    "usual_city": "Coimbatore",
+    "usual_lat": 11.0168,
+    "usual_lon": 76.9558,
+    "typical_amount": 260.0,
+    "monthly_limit": 9000.0,
+    "category_limits": {
+      "FOOD": 3500.0,
+      "HEALTH": 2000.0
+    },
+    "known_devices": [
+      "device-android-mom"
+    ],
+    "own_upi_ids": [
+      "meena@okaxis",
+      "meena.savings@okaxis"
+    ],
+    "known_payees": [
+      {
+        "name": "அன்னை கிரானா",
+        "upi_id": "annaigrocery@ybl"
+      },
+      {
+        "name": "அப்போலோ மருந்துக் கடை",
+        "upi_id": "apollopharm@axl"
+      },
+      {
+        "name": "Rent - Landlord",
+        "upi_id": "landlord.cbe@hdfcbank"
+      },
+      {
+        "name": "Rajan (son)",
+        "upi_id": "rajan.m@oksbi"
+      }
+    ],
+    "seed": 23
+  }
+}

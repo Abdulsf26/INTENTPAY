@@ -1,0 +1,8 @@
+# IntentPay core dependencies (pinned to tested minor versions).
+# Everything installs from wheels on Windows 10/11 with Python 3.10-3.13.
+streamlit>=1.64,<2
+pandas>=2.0,<3
+numpy>=1.24,<3
+scikit-learn>=1.3,<2
+qrcode>=7.4,<8
+pillow>=10.0,<12

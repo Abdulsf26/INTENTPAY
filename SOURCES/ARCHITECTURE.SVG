@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="760" viewBox="0 0 1180 760" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1180" height="760" fill="#FFFFFF"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0F172A">IntentPay — architecture</text>
+  <text x="40" y="72" font-size="14" fill="#64748B">One engine, two questions: “is this payment dangerous?” and “what does it do to my money?”</text>
+
+  <!-- payment input -->
+  <rect x="40" y="100" width="250" height="150" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="56" y="126" font-size="13" font-weight="700" fill="#334155">PAYMENT DRAFT</text>
+  <text x="56" y="150" font-size="12" fill="#475569">amount · type · payee · UPI ID</text>
+  <text x="56" y="170" font-size="12" fill="#475569">time · location · channel</text>
+  <text x="56" y="190" font-size="12" fill="#475569">on-call · battery · device</text>
+  <text x="56" y="210" font-size="12" fill="#475569">“why are you paying?”</text>
+  <text x="56" y="234" font-size="11" fill="#94A3B8">never: UPI PIN / OTP / password</text>
+
+  <!-- engines -->
+  <rect x="360" y="100" width="250" height="150" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="376" y="126" font-size="13" font-weight="700" fill="#334155">FEATURES · 20+ signals</text>
+  <text x="376" y="150" font-size="12" fill="#475569">z-score · ratio · velocity</text>
+  <text x="376" y="170" font-size="12" fill="#475569">new payee · location · night</text>
+  <text x="376" y="190" font-size="12" fill="#475569">call · battery · link · device</text>
+  <text x="376" y="214" font-size="11" fill="#94A3B8">SRC/FEATURES.py</text>
+
+  <rect x="360" y="280" width="250" height="120" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="376" y="306" font-size="13" font-weight="700" fill="#334155">ISOLATION FOREST</text>
+  <text x="376" y="330" font-size="12" fill="#475569">trained on this customer's own</text>
+  <text x="376" y="350" font-size="12" fill="#475569">history · tail-scaled percentile</text>
+  <text x="376" y="374" font-size="11" fill="#94A3B8">SRC/ANOMALY.py · cached, ~13 ms</text>
+
+  <rect x="360" y="430" width="250" height="120" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="376" y="456" font-size="13" font-weight="700" fill="#334155">INTENT ENGINE</text>
+  <text x="376" y="480" font-size="12" fill="#475569">bilingual lexicon: urgency,</text>
+  <text x="376" y="500" font-size="12" fill="#475569">authority, threat, secrecy,</text>
+  <text x="376" y="520" font-size="12" fill="#475569">safe-account, lottery, QR…</text>
+  <text x="376" y="544" font-size="11" fill="#94A3B8">SRC/INTENT_ENGINE.py · local default,</text>
+  <text x="376" y="558" font-size="11" fill="#94A3B8">optional LLM with fallback</text>
+
+  <!-- fusion -->
+  <rect x="680" y="190" width="230" height="240" rx="10" fill="#EFF6FF" stroke="#BFDBFE"/>
+  <text x="696" y="216" font-size="13" font-weight="700" fill="#1E40AF">RISK FUSION</text>
+  <text x="696" y="240" font-size="12" fill="#1E3A8A">fraud =</text>
+  <text x="696" y="258" font-size="12" fill="#1E3A8A">0.40·transaction + 0.45·intent</text>
+  <text x="696" y="276" font-size="12" fill="#1E3A8A">+ 0.15·recipient</text>
+  <text x="696" y="304" font-size="12" fill="#1E3A8A">bands LOW/MED/HIGH/CRIT</text>
+  <text x="696" y="326" font-size="12" fill="#1E3A8A">conditional intent prompt</text>
+  <text x="696" y="348" font-size="12" fill="#1E3A8A">self-transfer rule</text>
+  <text x="696" y="380" font-size="11" fill="#3B82F6">SRC/RISK_ENGINE.py</text>
+  <text x="696" y="398" font-size="11" fill="#3B82F6">SRC/EXPLAIN.py (ranked, EN+TA)</text>
+
+  <!-- money layer -->
+  <rect x="680" y="460" width="230" height="150" rx="10" fill="#F0FDF4" stroke="#BBF7D0"/>
+  <text x="696" y="486" font-size="13" font-weight="700" fill="#166534">MONEY LAYER</text>
+  <text x="696" y="510" font-size="12" fill="#14532D">categoriser + corrections</text>
+  <text x="696" y="530" font-size="12" fill="#14532D">limits · daily allowance</text>
+  <text x="696" y="550" font-size="12" fill="#14532D">median forecast</text>
+  <text x="696" y="570" font-size="12" fill="#14532D">recurring commitments</text>
+  <text x="696" y="596" font-size="11" fill="#22C55E">SRC/BUDGET · FORECAST · RECURRING</text>
+
+  <!-- outputs -->
+  <rect x="960" y="190" width="180" height="200" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="976" y="216" font-size="13" font-weight="700" fill="#334155">DECISION</text>
+  <text x="976" y="240" font-size="12" fill="#475569">continue / review /</text>
+  <text x="976" y="260" font-size="12" fill="#475569">stop + verify</text>
+  <text x="976" y="284" font-size="12" fill="#475569">budget warning</text>
+  <text x="976" y="308" font-size="12" fill="#475569">scam help →</text>
+  <text x="976" y="328" font-size="12" fill="#475569">1930 · cybercrime.gov.in</text>
+  <text x="976" y="352" font-size="12" fill="#475569">simulated UPI</text>
+  <text x="976" y="372" font-size="12" fill="#475569">handoff + UTR</text>
+
+  <rect x="960" y="420" width="180" height="190" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="976" y="446" font-size="13" font-weight="700" fill="#334155">SURFACES</text>
+  <text x="976" y="470" font-size="12" fill="#475569">payment simulator</text>
+  <text x="976" y="490" font-size="12" fill="#475569">money dashboard</text>
+  <text x="976" y="510" font-size="12" fill="#475569">judge panel (live params)</text>
+  <text x="976" y="530" font-size="12" fill="#475569">accuracy &amp; cost</text>
+  <text x="976" y="550" font-size="12" fill="#475569">Tamil elder mode + voice</text>
+  <text x="976" y="578" font-size="11" fill="#94A3B8">APP.py · SRC/DASHBOARD.py</text>
+
+  <!-- data -->
+  <rect x="40" y="560" width="250" height="130" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="56" y="586" font-size="13" font-weight="700" fill="#334155">DATA (synthetic)</text>
+  <text x="56" y="610" font-size="12" fill="#475569">2 demo customers · 120 days</text>
+  <text x="56" y="630" font-size="12" fill="#475569">385 labelled eval payments</text>
+  <text x="56" y="650" font-size="12" fill="#475569">10 scenarios · golden pair</text>
+  <text x="56" y="674" font-size="11" fill="#94A3B8">SRC/DATA_GENERATOR.py (seeded)</text>
+
+  <!-- arrows -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 z" fill="#64748B"/>
+    </marker>
+  </defs>
+  <line x1="290" y1="175" x2="352" y2="175" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="485" y1="250" x2="485" y2="274" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="485" y1="400" x2="485" y2="424" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="610" y1="175" x2="676" y2="230" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="610" y1="340" x2="676" y2="290" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="610" y1="490" x2="676" y2="380" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="610" y1="490" x2="676" y2="520" stroke="#16A34A" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="910" y1="260" x2="954" y2="270" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="910" y1="520" x2="954" y2="500" stroke="#16A34A" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="910" y1="530" x2="954" y2="480" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+  <line x1="165" y1="250" x2="165" y2="554" stroke="#94A3B8" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+
+  <text x="40" y="726" font-size="12" fill="#64748B">Privacy boundary: everything left of “DECISION” runs locally. External AI is opt-in, shows a “data leaves this computer” indicator, and always falls back to the local engine.</text>
+  <text x="40" y="746" font-size="12" fill="#94A3B8">IntentPay · NAS CODERS · synthetic-data prototype · no UPI PIN/OTP/password is ever requested</text>
+</svg>

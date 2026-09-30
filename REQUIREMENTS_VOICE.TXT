@@ -1,0 +1,5 @@
+# IntentPay optional voice packages.
+# These are OPTIONAL: the app detects them and falls back to typing when they
+# are missing, so a failed install here never breaks the demo.
+pyttsx3>=2.90            # offline text-to-speech (Windows SAPI5)
+SpeechRecognition>=3.10  # speech-to-text (needs internet for the Google endpoint)

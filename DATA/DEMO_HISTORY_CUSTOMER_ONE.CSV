@@ -1,0 +1,185 @@
+id,timestamp,amount,direction,merchant_label,upi_id,source,category,category_confidence,essential_flag,recurring_flag,self_transfer,note,utr
+customer_one-0159,2026-05-28 10:00:00,279.0,DEBIT,Airtel Mobile,airtel@icici,demo,BILLS,0.95,True,True,False,,208AC4E9EB9C
+customer_one-0184,2026-05-30 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,FE9FE385B6BB
+customer_one-0154,2026-06-01 10:00:00,499.0,DEBIT,Netflix,netflix@icici,demo,BILLS,0.95,True,True,False,,85733937DBEF
+customer_one-0001,2026-06-02 08:51:00,17.01,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,9D5A78E21ECB
+customer_one-0002,2026-06-03 07:19:00,136.42,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,2E6F420B7B79
+customer_one-0003,2026-06-03 09:30:00,3800.0,DEBIT,House Rent,landlord@hdfcbank,demo,ESSENTIALS,0.95,True,False,False,monthly rent,B0B258376FAD
+customer_one-0183,2026-06-04 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,767AA26AC92A
+customer_one-0004,2026-06-05 13:47:00,86.41,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,7372CF488D7D
+customer_one-0005,2026-06-06 06:12:00,204.17,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,765B4539A38A
+customer_one-0006,2026-06-07 14:40:00,103.52,DEBIT,City Clinic,city@upi,demo,HEALTH,0.95,True,False,False,,1422E3BDDF14
+customer_one-0007,2026-06-07 17:29:00,297.79,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,D927DF8A1959
+customer_one-0008,2026-06-07 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,E7198753CC63
+customer_one-0009,2026-06-08 09:18:00,229.17,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,DC437C2D39A2
+customer_one-0182,2026-06-09 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,9AB4FE781AB9
+customer_one-0011,2026-06-10 11:00:00,2400.0,DEBIT,School Fees,school@icici,demo,EDUCATION,0.95,True,False,False,term fee,7CAAA1E73955
+customer_one-0010,2026-06-10 19:24:00,184.01,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,884DAA0B8B4F
+customer_one-0012,2026-06-13 12:04:00,8.2,DEBIT,Amazon,amazon@upi,demo,SHOPPING,0.95,False,False,False,,D91D4720D4CF
+customer_one-0013,2026-06-14 07:21:00,462.55,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,2D18681345AD
+customer_one-0181,2026-06-14 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,323F92EE543C
+customer_one-0016,2026-06-17 12:13:00,370.79,DEBIT,City Clinic,city@upi,demo,HEALTH,0.95,True,False,False,,791CB045E096
+customer_one-0014,2026-06-17 13:43:00,328.34,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,CE244D70EB29
+customer_one-0015,2026-06-17 14:46:00,26.62,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,8A583E489502
+customer_one-0017,2026-06-18 10:15:00,620.0,DEBIT,Tata Power,tatapower@icici,demo,BILLS,0.95,True,False,False,electricity bill,2F83BC049C67
+customer_one-0180,2026-06-19 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,5656A442BB76
+customer_one-0019,2026-06-19 15:02:00,32.92,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,65F5AF159A3E
+customer_one-0018,2026-06-19 23:01:00,247.13,DEBIT,Zomato,zomato@upi,demo,ENTERTAINMENT,0.95,False,False,False,,77BCFC080204
+customer_one-0021,2026-06-20 01:23:00,272.92,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,E2230C8FF4A6
+customer_one-0022,2026-06-20 07:37:00,33.01,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,D6758D5F98F8
+customer_one-0020,2026-06-20 19:24:00,388.94,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,482925FD8FAF
+customer_one-0023,2026-06-21 09:39:00,409.7,DEBIT,Indian Oil Fuel,indian@upi,demo,TRAVEL,0.95,False,False,False,,376D04C6958D
+customer_one-0024,2026-06-22 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,3F2A27097772
+customer_one-0179,2026-06-24 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,89FBE1D0F845
+customer_one-0025,2026-06-24 17:24:00,382.89,DEBIT,Amazon,amazon@upi,demo,SHOPPING,0.95,False,False,False,,B01EB78EB5FA
+customer_one-0027,2026-06-25 09:52:00,26.93,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,659020F98AFC
+customer_one-0026,2026-06-25 14:16:00,28.5,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,932EE75E60FA
+customer_one-0028,2026-06-26 07:30:00,206.39,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,B8F2C7E1819E
+customer_one-0029,2026-06-26 10:58:00,158.72,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,25C3BC598407
+customer_one-0031,2026-06-27 07:08:00,119.16,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,7AAE055FEEE7
+customer_one-0030,2026-06-27 08:23:00,24.6,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,4E3788D051CA
+customer_one-0158,2026-06-27 10:00:00,279.0,DEBIT,Airtel Mobile,airtel@icici,demo,BILLS,0.95,True,True,False,,64651ADF5E4C
+customer_one-0032,2026-06-27 15:08:00,85.15,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,BE5264B891A2
+customer_one-0034,2026-06-28 10:04:00,127.23,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,112577BBC2BB
+customer_one-0033,2026-06-28 17:02:00,225.88,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,5B5FE37284CE
+customer_one-0178,2026-06-29 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,446C4245491B
+customer_one-0035,2026-06-30 19:58:00,111.04,DEBIT,Water Board,water@upi,demo,ESSENTIALS,0.95,False,False,False,,415F219CF7B3
+customer_one-0153,2026-07-01 10:00:00,499.0,DEBIT,Netflix,netflix@icici,demo,BILLS,0.95,True,True,False,,99D55BD12FFF
+customer_one-0037,2026-07-03 09:30:00,3800.0,DEBIT,House Rent,landlord@hdfcbank,demo,ESSENTIALS,0.95,True,False,False,monthly rent,B0D9B04B33B0
+customer_one-0036,2026-07-03 14:00:00,27.39,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,25B21E8236D7
+customer_one-0038,2026-07-04 06:40:00,239.72,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,DC8000610213
+customer_one-0177,2026-07-04 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,9F4D408E4A9E
+customer_one-0039,2026-07-07 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,ABACF2500CB2
+customer_one-0040,2026-07-08 06:48:00,62.88,DEBIT,Water Board,water@upi,demo,ESSENTIALS,0.95,False,False,False,,DF226BE2487B
+customer_one-0041,2026-07-08 16:30:00,485.04,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,40B1303D6E23
+customer_one-0042,2026-07-08 20:16:00,144.12,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,4892ED99A072
+customer_one-0176,2026-07-09 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,6409CEA810BD
+customer_one-0043,2026-07-09 17:12:00,115.68,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,043CBA37D836
+customer_one-0044,2026-07-09 20:20:00,317.66,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,D9B43AF33AD0
+customer_one-0045,2026-07-11 20:24:00,346.06,DEBIT,Indian Oil Fuel,indian@upi,demo,TRAVEL,0.95,False,False,False,,038F41FB301C
+customer_one-0046,2026-07-12 19:45:00,44.52,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,CF2661A1A166
+customer_one-0175,2026-07-14 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,6C2ACA944C21
+customer_one-0049,2026-07-14 13:04:00,163.1,DEBIT,Metro Card Topup,metro@upi,demo,TRAVEL,0.95,False,False,False,,CA247A3F23EE
+customer_one-0047,2026-07-14 13:17:00,541.67,DEBIT,Indian Oil Fuel,indian@upi,demo,TRAVEL,0.95,False,False,False,,EC85C6B56B09
+customer_one-0048,2026-07-14 17:45:00,198.0,DEBIT,Big Bazaar,big@upi,demo,SHOPPING,0.95,False,False,False,,AB6BE3A082CD
+customer_one-0050,2026-07-15 11:41:00,219.88,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,420C30B1E8E5
+customer_one-0051,2026-07-15 16:25:00,215.66,DEBIT,Apollo Pharmacy,apollo@upi,demo,HEALTH,0.95,True,False,False,,A15FF4A364D9
+customer_one-0052,2026-07-16 05:40:00,399.31,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,9AA98BF22D61
+customer_one-0053,2026-07-18 10:15:00,620.0,DEBIT,Tata Power,tatapower@icici,demo,BILLS,0.95,True,False,False,electricity bill,34D4EF15A25A
+customer_one-0054,2026-07-19 08:30:00,135.07,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,11FD85C66620
+customer_one-0174,2026-07-19 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,BE74CB83DADF
+customer_one-0055,2026-07-21 11:44:00,356.68,DEBIT,Apollo Pharmacy,apollo@upi,demo,HEALTH,0.95,True,False,False,,03FEB94EE18E
+customer_one-0056,2026-07-22 12:50:00,141.35,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,78B1DE45F8F2
+customer_one-0058,2026-07-22 16:58:00,159.45,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,CD35FD6F5BB5
+customer_one-0057,2026-07-22 18:08:00,155.37,DEBIT,Water Board,water@upi,demo,ESSENTIALS,0.95,False,False,False,,4ACE639DCE57
+customer_one-0059,2026-07-22 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,AB86D1D0B711
+customer_one-0060,2026-07-24 09:46:00,208.08,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,90F3340E151F
+customer_one-0173,2026-07-24 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,9E29ADB45845
+customer_one-0061,2026-07-25 09:57:00,926.36,DEBIT,Amazon,amazon@upi,demo,SHOPPING,0.95,False,False,False,,9FE7E38E85D4
+customer_one-0063,2026-07-25 11:05:00,233.02,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,2418488C2EC9
+customer_one-0062,2026-07-25 19:20:00,336.65,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,083E3463937D
+customer_one-0157,2026-07-27 10:00:00,279.0,DEBIT,Airtel Mobile,airtel@icici,demo,BILLS,0.95,True,True,False,,F6C4D509B335
+customer_one-0172,2026-07-29 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,392A099881C1
+customer_one-0065,2026-07-29 13:33:00,326.75,DEBIT,Apollo Pharmacy,apollo@upi,demo,HEALTH,0.95,True,False,False,,D39988236DAF
+customer_one-0064,2026-07-29 14:43:00,228.2,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,3FDD5153AEE9
+customer_one-0067,2026-07-30 14:18:00,356.15,DEBIT,City Clinic,city@upi,demo,HEALTH,0.95,True,False,False,,5E7E51EEB4B3
+customer_one-0066,2026-07-30 21:05:00,31.64,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,81D086707357
+customer_one-0152,2026-07-31 10:00:00,499.0,DEBIT,Netflix,netflix@icici,demo,BILLS,0.95,True,True,False,,E1AB4B973CA3
+customer_one-0069,2026-07-31 10:09:00,104.66,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,76516B664693
+customer_one-0068,2026-07-31 15:19:00,44.44,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,D9B01585D486
+customer_one-0070,2026-08-01 00:24:00,99.38,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,F3851FA45258
+customer_one-0072,2026-08-01 06:34:00,133.08,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,3934F53B5F2C
+customer_one-0071,2026-08-01 14:25:00,265.27,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,394B2DC8EB0D
+customer_one-0073,2026-08-02 10:30:00,38.31,DEBIT,TNSTC Bus,tnstc@upi,demo,TRAVEL,0.95,False,False,False,,1B451B4E0077
+customer_one-0074,2026-08-02 20:30:00,172.95,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,55A405241203
+customer_one-0076,2026-08-03 09:30:00,3800.0,DEBIT,House Rent,landlord@hdfcbank,demo,ESSENTIALS,0.95,True,False,False,monthly rent,EBCCF82F56F4
+customer_one-0171,2026-08-03 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,95AF5EFFC1CA
+customer_one-0075,2026-08-03 16:59:00,29.9,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,B2D22D69E749
+customer_one-0077,2026-08-05 17:20:00,372.76,DEBIT,PVR Cinemas,pvr@upi,demo,ENTERTAINMENT,0.95,False,False,False,,904D15A1CEEF
+customer_one-0078,2026-08-06 07:46:00,29.56,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,89B0B61A615D
+customer_one-0079,2026-08-07 14:27:00,122.89,DEBIT,Metro Card Topup,metro@upi,demo,TRAVEL,0.95,False,False,False,,4A2C8A2B7279
+customer_one-0080,2026-08-07 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,87172882292F
+customer_one-0081,2026-08-08 08:13:00,155.66,DEBIT,Metro Card Topup,metro@upi,demo,TRAVEL,0.95,False,False,False,,151A4A35B760
+customer_one-0170,2026-08-08 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,E0F44217CAAB
+customer_one-0082,2026-08-09 19:14:00,144.96,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,83E0D3142C2B
+customer_one-0083,2026-08-09 20:20:00,65.95,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,26B0305E8EE9
+customer_one-0084,2026-08-10 20:08:00,200.13,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,EB25037DCCB0
+customer_one-0086,2026-08-11 08:40:00,18.84,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,C93CB76B18D4
+customer_one-0085,2026-08-11 09:06:00,504.95,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,EEFC26FA8D0E
+customer_one-0087,2026-08-12 15:22:00,99.32,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,6E67CC1DA5EE
+customer_one-0169,2026-08-13 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,B83136E8F8F1
+customer_one-0088,2026-08-13 11:43:00,509.33,DEBIT,Amazon,amazon@upi,demo,SHOPPING,0.95,False,False,False,,9D633BB7C2DE
+customer_one-0089,2026-08-13 13:01:00,253.78,DEBIT,Indian Oil Fuel,indian@upi,demo,TRAVEL,0.95,False,False,False,,FA5FE2D3DFBA
+customer_one-0090,2026-08-15 08:10:00,121.56,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,2E120DC2E291
+customer_one-0093,2026-08-16 01:44:00,523.96,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,DD6DFA88FF37
+customer_one-0091,2026-08-16 07:43:00,279.87,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,45DB5D0C90D0
+customer_one-0095,2026-08-16 07:50:00,1311.46,DEBIT,Amazon,amazon@upi,demo,SHOPPING,0.95,False,False,False,,3620F03E2F0D
+customer_one-0092,2026-08-16 14:27:00,207.57,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,550E582693A8
+customer_one-0094,2026-08-16 18:25:00,131.79,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,8641C36CE589
+customer_one-0168,2026-08-18 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,B76F8374359F
+customer_one-0098,2026-08-18 10:15:00,620.0,DEBIT,Tata Power,tatapower@icici,demo,BILLS,0.95,True,False,False,electricity bill,2D4CF556BDAF
+customer_one-0097,2026-08-18 19:16:00,191.4,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,607C0AAAB61B
+customer_one-0096,2026-08-18 21:36:00,199.43,DEBIT,Metro Card Topup,metro@upi,demo,TRAVEL,0.95,False,False,False,,8F713492A729
+customer_one-0100,2026-08-21 12:46:00,398.79,DEBIT,Apollo Pharmacy,apollo@upi,demo,HEALTH,0.95,True,False,False,,16601B70C221
+customer_one-0099,2026-08-21 14:23:00,29.19,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,3EA9F4692BD7
+customer_one-0101,2026-08-22 16:39:00,315.04,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,E72CE1EED33E
+customer_one-0102,2026-08-22 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,47FB671558B9
+customer_one-0167,2026-08-23 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,94B7CF396E49
+customer_one-0104,2026-08-24 16:44:00,8.2,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,2C4976B7B89E
+customer_one-0103,2026-08-24 17:36:00,117.1,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,E9CF295868F1
+customer_one-0105,2026-08-24 22:01:00,39.65,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,6CB7993F139C
+customer_one-0156,2026-08-26 10:00:00,279.0,DEBIT,Airtel Mobile,airtel@icici,demo,BILLS,0.95,True,True,False,,48A695072CDC
+customer_one-0106,2026-08-28 09:17:00,111.55,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,1D442816A4EE
+customer_one-0166,2026-08-28 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,31EDFA0C68B9
+customer_one-0108,2026-08-29 12:10:00,114.2,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,2667EA9565B4
+customer_one-0107,2026-08-29 16:51:00,237.29,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,95967464DF31
+customer_one-0151,2026-08-30 10:00:00,499.0,DEBIT,Netflix,netflix@icici,demo,BILLS,0.95,True,True,False,,B30F32E91237
+customer_one-0110,2026-08-30 10:41:00,22.41,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,3E9356CD5060
+customer_one-0109,2026-08-30 21:26:00,33.85,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,83ED2C3B4F96
+customer_one-0111,2026-09-01 03:49:00,321.42,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,24D4044E751F
+customer_one-0113,2026-09-01 05:46:00,91.48,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,8D9F21200E4A
+customer_one-0112,2026-09-01 17:03:00,195.25,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,5D476F4F3DCB
+customer_one-0165,2026-09-02 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,5F88F5C83C38
+customer_one-0116,2026-09-02 16:07:00,282.34,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,20CABBD86CB0
+customer_one-0115,2026-09-02 21:46:00,282.04,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,8214DCFEAE54
+customer_one-0114,2026-09-02 22:15:00,76.81,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,A438EABC1D8E
+customer_one-0117,2026-09-03 09:30:00,3800.0,DEBIT,House Rent,landlord@hdfcbank,demo,ESSENTIALS,0.95,True,False,False,monthly rent,5EB083FAA843
+customer_one-0118,2026-09-05 07:28:00,105.78,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,85CE3C4989AB
+customer_one-0164,2026-09-07 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,D014531A3EFC
+customer_one-0120,2026-09-07 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,1988F2DEB1A9
+customer_one-0119,2026-09-07 19:08:00,20.91,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,BFF14C0D52AD
+customer_one-0121,2026-09-08 13:32:00,137.22,DEBIT,Water Board,water@upi,demo,ESSENTIALS,0.95,False,False,False,,114F36FC1D10
+customer_one-0123,2026-09-08 18:12:00,571.43,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,B95C26DADB72
+customer_one-0122,2026-09-08 18:44:00,131.91,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,818311390F93
+customer_one-0124,2026-09-09 06:17:00,122.38,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,32678B8D3311
+customer_one-0125,2026-09-09 16:06:00,231.54,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,6F42D9566085
+customer_one-0126,2026-09-09 17:35:00,443.7,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,D644B465D124
+customer_one-0128,2026-09-11 07:51:00,122.46,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,E6245C3552A6
+customer_one-0127,2026-09-11 09:21:00,418.14,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,9800D2A5DCEB
+customer_one-0129,2026-09-11 13:47:00,464.57,DEBIT,Indian Oil Fuel,indian@upi,demo,TRAVEL,0.95,False,False,False,,63FA20D96F83
+customer_one-0163,2026-09-12 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,1CA8DECF4ABC
+customer_one-0130,2026-09-12 19:11:00,337.37,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,AF96973CFBDF
+customer_one-0132,2026-09-15 06:13:00,23.67,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,1B4F3ABCC350
+customer_one-0131,2026-09-15 12:36:00,366.41,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,F1CB40827E43
+customer_one-0133,2026-09-16 13:48:00,609.77,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,6D4433DE4C22
+customer_one-0134,2026-09-16 17:20:00,119.33,DEBIT,Water Board,water@upi,demo,ESSENTIALS,0.95,False,False,False,,BEB846ADCCFB
+customer_one-0162,2026-09-17 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,B2B86599AC3A
+customer_one-0135,2026-09-18 10:15:00,620.0,DEBIT,Tata Power,tatapower@icici,demo,BILLS,0.95,True,False,False,electricity bill,66ED94FF1A96
+customer_one-0136,2026-09-19 12:51:00,112.51,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,2C5706BBDDC8
+customer_one-0137,2026-09-20 03:43:00,174.6,DEBIT,Saravana Hotel,saravana@upi,demo,FOOD,0.95,True,False,False,,2191EBA89092
+customer_one-0139,2026-09-20 15:11:00,17.18,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,0DDB6AA7DB82
+customer_one-0138,2026-09-20 19:47:00,30.91,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,139924EDDD86
+customer_one-0140,2026-09-20 20:18:00,23.88,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,FD96217AAA1A
+customer_one-0142,2026-09-21 06:34:00,31.09,DEBIT,TNSTC Bus,tnstc@upi,demo,TRAVEL,0.95,False,False,False,,2207CE2E0B19
+customer_one-0141,2026-09-21 22:41:00,154.11,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,DF4BE8CC498F
+customer_one-0161,2026-09-22 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,CB4890192065
+customer_one-0143,2026-09-22 18:15:00,3000.0,DEBIT,Own Savings,arun.savings@okhdfc,demo,TRANSFER,0.95,False,False,True,self transfer,BC98D6C904C9
+customer_one-0144,2026-09-23 06:40:00,370.78,DEBIT,Nilgiris Supermarket,nilgiris@upi,demo,FOOD,0.95,True,False,False,,CDCC45AEE502
+customer_one-0145,2026-09-24 09:14:00,15.74,DEBIT,Milk Co-op,milk@upi,demo,FOOD,0.95,True,False,False,,5A1369474A0B
+customer_one-0155,2026-09-25 10:00:00,279.0,DEBIT,Airtel Mobile,airtel@icici,demo,BILLS,0.95,True,True,False,,9211DE95F778
+customer_one-0146,2026-09-25 11:21:00,154.42,DEBIT,Stationery Shop,stationery@upi,demo,EDUCATION,0.95,False,False,False,,98F55D94F213
+customer_one-0147,2026-09-26 17:58:00,172.4,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,25339045A043
+customer_one-0160,2026-09-27 10:00:00,32.0,DEBIT,Milk Co-op,milk@icici,demo,FOOD,0.95,True,True,False,,3A1B6ECC338A
+customer_one-0148,2026-09-27 19:56:00,430.05,DEBIT,Zomato,zomato@upi,demo,ENTERTAINMENT,0.95,False,False,False,,36029E553E4E
+customer_one-0149,2026-09-28 14:45:00,139.64,DEBIT,Annai Grocery Store,annai@upi,demo,FOOD,0.95,True,False,False,,58FFEA847FC1
+customer_one-0150,2026-09-29 10:00:00,499.0,DEBIT,Netflix,netflix@icici,demo,BILLS,0.95,True,True,False,,6B93AD671087

@@ -1,0 +1,22 @@
+# IntentPay — Streamlit runtime configuration.
+#
+# The app is pure-white by design, so the theme is pinned to light here as well as
+# in the CSS. Without this, Streamlit follows the operating system's colour scheme
+# and a machine set to dark mode renders the widgets dark on a forced-white canvas.
+#
+# (This path is tool-mandated by Streamlit, so it keeps its lowercase name — the
+# same documented exception as .github/ and .gitignore.)
+[theme]
+base = "light"
+primaryColor = "#1D4ED8"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8FAFC"
+textColor = "#0F172A"
+font = "sans serif"
+
+[server]
+headless = true
+fileWatcherType = "auto"
+
+[browser]
+gatherUsageStats = false

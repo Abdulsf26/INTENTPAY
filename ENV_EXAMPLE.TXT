@@ -1,0 +1,11 @@
+# IntentPay environment file.
+# Copy this file to ".env" (START_HERE.BAT does it automatically) and fill in
+# only if you want the OPTIONAL external AI engine for intent analysis.
+#
+# DEFAULT BEHAVIOUR: everything runs locally and offline. No key is required.
+# When a key IS present and you switch the AI engine to EXTERNAL in the Judge
+# panel, the payment reason text is sent to the hosted model and the app shows
+# a visible "DATA LEAVES THIS COMPUTER" indicator.
+
+# GEMINI_API_KEY=your-key-here
+# INTENTPAY_LLM_KEY=your-key-here
